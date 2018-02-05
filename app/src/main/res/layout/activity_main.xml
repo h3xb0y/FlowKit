@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
     tools:context="com.example.h3x.androidmalware.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="@string/description"
+        android:textColor="@color/textColor" />
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choose"
+        android:textSize="20sp"
+        android:textColor="@color/textColor" />
 
-</android.support.constraint.ConstraintLayout>
+    <CheckBox
+        android:paddingTop="10dp"
+        android:id="@+id/checkBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/textColor"
+        android:text="INSTAGRAM"
+        android:paddingBottom="10dp"/>
+
+    <Button
+
+        android:id="@+id/button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="ATTACK!" />
+
+
+</LinearLayout>
