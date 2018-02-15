@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">AndroidMalware</string>
+    <string name="app_name">android malware</string>
     <string name="description">Simple app showing you how to easy hack inject your phone :)</string>
     <string name="choose">Choose application to start attacking.</string>
+    <string name="log">Check log of injection proccess.</string>
+    <string name="contribute">Contribute to the project</string>
 
 
 </resources>
