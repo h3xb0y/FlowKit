@@ -16,11 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FakeActivity">
+        <activity android:name=".FakeActivity" >
+            <!--Default Intent Filter-->
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.DEFAULT" />
             </intent-filter>
         </activity>
     </application>

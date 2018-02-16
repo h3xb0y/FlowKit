@@ -2,10 +2,8 @@
     <string name="app_name">android malware</string>
     <string name="description">Simple app showing you how to easy hack inject your phone :)</string>
     <string name="choose">Choose application to start attacking.</string>
-    <string name="log">Check log of injection proccess.</string>
+    <string name="log">Check log of injection process.</string>
     <string name="contribute">Contribute to the project</string>
     <string name="descriptionf">Fake Activity enabled! Press close.</string>
     <string name="closef">CLOSE</string>
-
-
 </resources>
