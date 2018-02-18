@@ -8,4 +8,73 @@
     tools:context="com.example.h3x.androidmalware.NavigationActivity"
     tools:showIn="@layout/app_bar_navigation">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="8dp"
+        android:background="@color/background">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:gravity="center"
+            android:text="@string/description"
+            android:textColor="@color/textColor" />
+        <TextView
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choose"
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/textColor" />
+
+        <CheckBox
+            android:paddingTop="10dp"
+            android:id="@+id/checkBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textColor"
+            android:layout_gravity="center"
+            android:text="INSTAGRAM"
+            android:paddingBottom="10dp"
+            />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="ATTACK!"
+            android:layout_gravity="center"
+            android:background="@drawable/cornerbtn"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:padding="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="40dp"
+            android:text="@string/log"
+            android:textAllCaps="false"
+            android:textColor="@color/textColor"
+            android:textStyle="bold" />
+        <Button
+            android:paddingTop="10dp"
+            android:id="@+id/log"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="LOG"
+            android:layout_gravity="center"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:padding="10dp"/>
+
+
+
+
+    </LinearLayout>
+
 </android.support.constraint.ConstraintLayout>

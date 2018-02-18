@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">android malware v0.1</string>
     <string name="app_ver">android malware v0.1</string>
-    <string name="description">Simple app showing you how to easy hack inject your phone :)</string>
+    <string name="description">This setting injects your application by adding a fake window with a login and a password on top of the applications</string>
     <string name="choose">Choose application to start attacking.</string>
     <string name="log">Check log of injection process.</string>
     <string name="contribute">Contribute to the project</string>
