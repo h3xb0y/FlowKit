@@ -9,14 +9,34 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:paddingTop="8dp"
+        android:gravity="center"
         android:background="@color/background">
-
-
-        <ImageView
-            android:id="@+id/imageView2"
+        <TextView
+            android:id="@+id/textView"
+            android:gravity="center"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/medit" />
+            android:textColor="@color/textColor"
+            android:layout_height="wrap_content"
+            android:text="Input email to send sms" />
+
+        <EditText
+            android:gravity="center"
+            android:id="@+id/plain_text_input"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:inputType="text"
+            android:textColor="@color/textColor"
+            android:text="email"/>
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="SEND"
+            android:layout_gravity="center"
+            android:background="@drawable/cornerbtn"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:padding="10dp"/>
 
 
     </LinearLayout>
