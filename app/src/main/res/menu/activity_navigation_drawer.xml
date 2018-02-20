@@ -5,21 +5,25 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_malware"
             android:icon="@drawable/ic_bug_report_black_24dp"
             android:title="Malware Options" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_hardware"
             android:icon="@drawable/ic_memory_black_24dp"
             android:title="Hardware" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_keylogger"
             android:icon="@drawable/ic_keyboard_black_24dp"
             android:title="Keylogger" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_manager"
             android:icon="@drawable/ic_supervisor_account_black_24dp"
             android:title="Account Manager" />
+        <item
+            android:id="@+id/nav_sms"
+            android:icon="@drawable/icons_message"
+            android:title="Sms Stealer" />
     </group>
 
     <group android:checkableBehavior="none">
