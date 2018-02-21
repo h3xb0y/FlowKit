@@ -12,7 +12,7 @@
         android:gravity="center"
         android:background="@color/background">
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/textview"
             android:gravity="center"
             android:layout_width="match_parent"
             android:textColor="@color/textColor"
@@ -37,6 +37,13 @@
             android:background="@drawable/cornerbtn"
             style="@style/Widget.AppCompat.Button.Colored"
             android:padding="10dp"/>
+        <TextView
+            android:id="@+id/smslog"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:textColor="@color/textColor"
+            android:layout_height="wrap_content"
+            android:text="Sms logs:" />
 
 
     </LinearLayout>
