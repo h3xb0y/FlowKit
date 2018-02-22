@@ -26,17 +26,19 @@
             android:layout_width="match_parent"
             android:inputType="text"
             android:textColor="@color/textColor"
-            android:text="email"/>
+            android:text="input here"/>
 
         <Button
             android:id="@+id/send"
+            style="@style/Widget.AppCompat.Button.Colored"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="SEND"
             android:layout_gravity="center"
             android:background="@drawable/cornerbtn"
-            style="@style/Widget.AppCompat.Button.Colored"
-            android:padding="10dp"/>
+            android:editable="false"
+            android:enabled="false"
+            android:padding="10dp"
+            android:text="SEND" />
         <TextView
             android:id="@+id/smslog"
             android:gravity="center"
