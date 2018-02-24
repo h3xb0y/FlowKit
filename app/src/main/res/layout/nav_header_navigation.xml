@@ -33,6 +33,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="8dp"
             android:text="@string/app_ver"
+            android:fontFamily="@font/montserrat_extralight"
             android:gravity="center"
             android:textSize="17dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1" />

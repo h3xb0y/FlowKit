@@ -79,6 +79,7 @@
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="IMEI:"
+                android:fontFamily="@font/montserrat_regular"
                 android:id="@+id/textView14"
                 android:layout_gravity="left|center_vertical"
                 android:textColor="#FFFFFF"
@@ -100,6 +101,7 @@
                 android:textStyle="bold"
                 android:shadowColor="#000000"
                 android:shadowDx="3"
+                android:fontFamily="@font/montserrat_extralight"
                 android:shadowDy="3"
                 android:shadowRadius="6"/>
         </FrameLayout>
@@ -125,6 +127,7 @@
                 android:layout_gravity="left|center_vertical"
                 android:textColor="#FFFFFF"
                 android:shadowColor="#000000"
+                android:fontFamily="@font/montserrat_regular"
                 android:shadowDx="3"
                 android:shadowDy="3"
                 android:shadowRadius="6"
@@ -143,6 +146,7 @@
                 android:shadowColor="#000000"
                 android:shadowDx="3"
                 android:shadowDy="3"
+                android:fontFamily="@font/montserrat_extralight"
                 android:shadowRadius="6"/>
         </FrameLayout>
 
@@ -164,6 +168,7 @@
                 android:textColor="#FFFFFF"
                 android:shadowColor="#000000"
                 android:shadowDx="3"
+                android:fontFamily="@font/montserrat_regular"
                 android:shadowDy="3"
                 android:shadowRadius="6"
                 android:textStyle="bold|italic"
@@ -182,6 +187,7 @@
                     android:layout_gravity="center_horizontal|top"
                     android:minHeight="28dp"
                     android:minWidth="28dp"
+                    android:fontFamily="@font/montserrat_extralight"
                     android:text="operator"
                     android:textAppearance="?android:attr/textAppearanceMedium"
                     android:textColor="#FFFFFF"
@@ -209,6 +215,7 @@
                 android:textColor="#FFFFFF"
                 android:shadowColor="#000000"
                 android:shadowDx="3"
+                android:fontFamily="@font/montserrat_regular"
                 android:shadowDy="3"
                 android:shadowRadius="6"
                 android:textStyle="bold|italic"
@@ -225,6 +232,7 @@
                 android:textStyle="bold"
                 android:shadowColor="#000000"
                 android:shadowDx="3"
+                android:fontFamily="@font/montserrat_extralight"
                 android:shadowDy="3"
                 android:shadowRadius="6"
                 />
@@ -249,6 +257,7 @@
                 android:textColor="#FFFFFF"
                 android:shadowColor="#000000"
                 android:shadowDx="3"
+                android:fontFamily="@font/montserrat_regular"
                 android:shadowDy="3"
                 android:shadowRadius="6"
                 android:textStyle="bold|italic"
@@ -266,6 +275,7 @@
                 android:shadowColor="#000000"
                 android:shadowDx="3"
                 android:shadowDy="3"
+                android:fontFamily="@font/montserrat_extralight"
                 android:shadowRadius="6"/>
 
         </FrameLayout>
@@ -288,6 +298,7 @@
                 android:textColor="#FFFFFF"
                 android:shadowColor="#000000"
                 android:shadowDx="3"
+                android:fontFamily="@font/montserrat_regular"
                 android:shadowDy="3"
                 android:shadowRadius="6"
                 android:textStyle="bold|italic"
@@ -306,6 +317,7 @@
                 android:shadowColor="#000000"
                 android:shadowDx="3"
                 android:shadowDy="3"
+                android:fontFamily="@font/montserrat_extralight"
                 android:shadowRadius="6"/>
 
         </FrameLayout>
@@ -318,6 +330,7 @@
             android:background="@drawable/cornerbtn"
             style="@style/Widget.AppCompat.Button.Colored"
             android:alpha="220"
+            android:fontFamily="@font/montserrat_extralight"
             android:layout_gravity="center"/>
     </LinearLayout>
 

@@ -20,6 +20,8 @@
         android:layout_height="wrap_content"
         android:text="@string/descriptionf"
         android:textSize="20sp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/montserrat_extralight"
         android:textColor="@color/textColor" />
 
 
@@ -29,6 +31,8 @@
         android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:text="@string/closef"
+        android:layout_gravity="center"
+        android:fontFamily="@font/montserrat_extralight"
         android:background="@drawable/cornerbtn"
         style="@style/Widget.AppCompat.Button.Colored"
         android:padding="10dp"/>

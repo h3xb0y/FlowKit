@@ -17,6 +17,7 @@
             android:layout_width="match_parent"
             android:textColor="@color/textColor"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_bold"
             android:text="Input email to send sms" />
 
         <EditText
@@ -25,6 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
             android:inputType="text"
+            android:fontFamily="@font/montserrat_extralight"
             android:textColor="@color/textColor"
             android:text="input here"/>
 
@@ -34,9 +36,8 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
+
             android:background="@drawable/cornerbtn"
-            android:editable="false"
-            android:enabled="false"
             android:padding="10dp"
             android:text="SEND" />
         <TextView
@@ -45,6 +46,7 @@
             android:layout_width="match_parent"
             android:textColor="@color/textColor"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/montserrat_light"
             android:text="Sms logs:" />
 
 
