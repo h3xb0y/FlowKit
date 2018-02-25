@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">android malware v0.1</string>
     <string name="app_ver">android malware v0.1</string>
-    <string name="description">This setting injects your phone applications by adding a fake window with a login and a password on top of the applications</string>
-    <string name="choose">Choose application to start attacking.</string>
+    <string name="description">This setting injects your phone applications by adding a fake window with a login and a password on top of the applications.
+    Choose application to start attacking.</string>
     <string name="log">Check log of injection process.</string>
     <string name="contribute">Contribute to the project</string>
     <string name="descriptionf">Fake Activity enabled! Press close.</string>
@@ -17,7 +17,7 @@
     <string name="title_activity_about">AboutActivity</string>
     <string name="about_me">android dev</string>
     <string name="dev">h3xb0y</string>
-
+    <string name="ver_error">Your android version does not support this method :c\nNew methods coming soon</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

@@ -40,14 +40,10 @@
             android:background="@drawable/cornerbtn"
             android:padding="10dp"
             android:text="SEND" />
-        <TextView
-            android:id="@+id/smslog"
-            android:gravity="center"
-            android:layout_width="match_parent"
-            android:textColor="@color/textColor"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/montserrat_light"
-            android:text="Sms logs:" />
+
+        <include
+            android:id="@+id/item"
+            layout="@layout/text_item" />
 
 
     </LinearLayout>
