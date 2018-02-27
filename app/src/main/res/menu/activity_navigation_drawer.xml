@@ -25,6 +25,10 @@
             android:icon="@drawable/icons_message"
             android:title="Sms Stealer" />
         <item
+            android:id="@+id/nav_monitor"
+            android:icon="@drawable/monitoring"
+            android:title="Monitoring" />
+        <item
             android:id="@+id/nav_share"
             android:icon="@drawable/ic_menu_send"
             android:title="About" />
