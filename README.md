@@ -3,7 +3,7 @@
     </a></h1>
 <div align="center">
         <div align="center">
-  <strong>Android library for simplified logging</strong>
+  <strong>Simple android malware :beetle:</strong>
 </div>
 <br/>
 <div align="center">
