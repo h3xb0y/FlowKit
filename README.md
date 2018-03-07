@@ -2,6 +2,22 @@
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"/>
     </a></h1>
 <div align="center">
+        <div align="center">
+  <strong>Android library for simplified logging</strong>
+</div>
+<br/>
+<div align="center">
+    <a href="https://android-arsenal.com/api?level=9">
+        <img src="https://img.shields.io/badge/API-21%2B-orange.svg"/>
+    </a>
+    <a href="https://github.com/h3xb0y/">
+        <img src="https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow%20@h3xb0y"/>
+    </a>
+    <a href="https://twitter.com/h3xb0y">
+        <img src="https://img.shields.io/twitter/follow/h3xb0y.svg?style=social"/>
+    </a>
+</div>
+
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/h3xb0y">h3xb0y</a> <br/>
 <img src="http://forthebadge.com/images/badges/built-for-android.svg" /> 
