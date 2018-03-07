@@ -7,7 +7,7 @@
 </div>
 <br/>
 <div align="center">
-    <a href="https://android-arsenal.com/api?level=9">
+    <a href="https://android-arsenal.com/api?level=21">
         <img src="https://img.shields.io/badge/API-21%2B-orange.svg"/>
     </a>
     <a href="https://github.com/h3xb0y/">
