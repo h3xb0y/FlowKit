@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="com.example.h3x.androidmalware.Fragments.MonitoringFragment">
+    tools:context="com.example.h3x.androidmalware.View.MonitoringFragment">
 
     <android.support.design.widget.TabLayout
         android:id="@+id/tab_layout"
