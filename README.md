@@ -11,10 +11,10 @@
         <img src="https://img.shields.io/badge/API-21%2B-orange.svg"/>
     </a>
     <a href="https://github.com/h3xb0y/">
-        <img src="https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow%20@h3xb0y"/>
+        <img src="https://img.shields.io/github/followers/h3xb0y.svg?style=social&label=Github%20@h3xb0y"/>
     </a>
     <a href="https://twitter.com/h3xb0y">
-        <img src="https://img.shields.io/twitter/follow/h3xb0y.svg?style=social"/>
+        <img src="https://img.shields.io/twitter/follow/h3xb0y.svg?style=social&label=Twitter%20@h3xb0y"/>
     </a>
 </div>
 
