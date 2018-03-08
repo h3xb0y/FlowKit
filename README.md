@@ -1,4 +1,4 @@
-<h1 align="center">Android Malware&nbsp;<a href="https://twitter.com/intent/tweet?text=Checkout%20Simple%20source%20of%20Android%20malwared&url=https://github.com/h3xb0y/AndroidMalware&via=h3xb0y&hashtags=AndroidDev,android,OpenSource">
+<h1 align="center">Android FlowKit&nbsp;<a href="https://twitter.com/intent/tweet?text=Checkout%20Simple%20source%20of%20Android%20malwared&url=https://github.com/h3xb0y/AndroidMalware&via=h3xb0y&hashtags=AndroidDev,android,OpenSource">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"/>
     </a></h1>
 <div align="center">
@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
     <a href="https://github.com/h3xb0y/AndroidMalware/releases">
-        <img src="https://img.shields.io/badge/flowkit-v0.1-lightgrey.svg"/>
+        <img src="https://img.shields.io/badge/version-0.1-lightgrey.svg"/>
     </a>
     <a href="https://android-arsenal.com/api?level=21">
         <img src="https://img.shields.io/badge/API-21%2B-orange.svg"/>
