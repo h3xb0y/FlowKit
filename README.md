@@ -10,6 +10,9 @@
     <a href="https://github.com/h3xb0y/AndroidMalware/releases">
         <img src="https://img.shields.io/badge/version-0.1-lightgrey.svg"/>
     </a>
+    <a href="https://github.com/h3xb0y/AndroidMalware/blob/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-green.svg"/>
+    </a>
     <a href="https://android-arsenal.com/api?level=21">
         <img src="https://img.shields.io/badge/API-21%2B-orange.svg"/>
     </a>
