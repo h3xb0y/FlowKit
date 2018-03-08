@@ -7,6 +7,9 @@
 </div>
 <br/>
 <div align="center">
+    <a href="https://app.codacy.com/app/qommentator/FlowKit/dashboard">
+        <img src="https://api.codacy.com/project/badge/Grade/160fc9ae49a7444d8d0680ea641e28ce"/>
+    </a>
     <a href="https://github.com/h3xb0y/FlowKit/releases">
         <img src="https://img.shields.io/badge/version-0.1-lightgrey.svg"/>
     </a>
