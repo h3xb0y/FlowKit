@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">android malware v0.1</string>
-    <string name="app_ver">android malware v0.1</string>
+    <string name="app_name">Flow Kit</string>
+    <string name="app_ver">flowkit v0.1</string>
     <string name="description">This setting injects your phone applications by adding a fake window with a login and a password on top of the applications.
     Choose application to start attacking.</string>
     <string name="log">Check log of injection process.</string>
     <string name="contribute">Contribute to the project</string>
     <string name="descriptionf">Fake Activity enabled! Press close.</string>
     <string name="closef">CLOSE</string>
-    <string name="title_activity_navigation">android malware</string>
+    <string name="title_activity_navigation">FlowKit</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
