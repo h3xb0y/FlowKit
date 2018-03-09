@@ -29,6 +29,16 @@
 
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/h3xb0y">h3xb0y</a> <br/>
-<img src="http://forthebadge.com/images/badges/built-for-android.svg" /> 
 </div>
+<div align="center">
+## Features
+#### Overlay attack :heavy_multiplication_x: </br>
+#### Hardware :heavy_check_mark:
+#### Keylogger :heavy_multiplication_x:
+#### Account Manager :heavy_multiplication_x:
+#### Sms stealer :heavy_multiplication_x:
+#### Monitoring :heavy_multiplication_x:
+</div>
+<img src="http://forthebadge.com/images/badges/built-for-android.svg" /> 
+
   
