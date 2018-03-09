@@ -30,7 +30,7 @@
   <sub>Built with ❤︎ by
   <a href="https://twitter.com/h3xb0y">h3xb0y</a> <br/>
 </div>
-<div align="center">
+
 ## Features
 #### Overlay attack :heavy_multiplication_x: </br>
 #### Hardware :heavy_check_mark:
@@ -38,7 +38,9 @@
 #### Account Manager :heavy_multiplication_x:
 #### Sms stealer :heavy_multiplication_x:
 #### Monitoring :heavy_multiplication_x:
-</div>
+
+## License
+Licensed under the MIT, [click here for the full license](/LICENSE). </br>
 <img src="http://forthebadge.com/images/badges/built-for-android.svg" /> 
 
   
