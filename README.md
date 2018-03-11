@@ -35,7 +35,7 @@
 #### Overlay attack :heavy_multiplication_x: </br>
 #### Hardware :heavy_check_mark:
 #### Keylogger :heavy_multiplication_x:
-#### Account Manager :heavy_multiplication_x:
+#### Account Manager :heavy_check_mark:
 #### Sms stealer :heavy_multiplication_x:
 #### Monitoring :heavy_multiplication_x:
 
