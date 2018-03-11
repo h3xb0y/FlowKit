@@ -9,7 +9,6 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:paddingTop="8dp"
-        android:gravity="center"
         android:background="@color/background">
 
         <TextView
@@ -20,14 +19,19 @@
             android:textColor="@color/textColor"
             android:layout_height="wrap_content"
             android:text="Accounts:" />
-        <TextView
-            android:id="@+id/ContactsManagerView"
-            android:gravity="center"
-            android:fontFamily="@font/montserrat_extralight"
-            android:layout_width="match_parent"
-            android:textColor="@color/textColor"
+        <Button
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:text="Contacts:" />
+            android:id="@+id/button1"
+            android:layout_gravity="center"
+            android:background="@drawable/cornerbtn"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:text="Click Here to load Contacts" />
+
+        <ListView
+            android:id="@+id/listView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
 
 
     </LinearLayout>
