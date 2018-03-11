@@ -19,14 +19,33 @@
             android:textColor="@color/textColor"
             android:layout_height="wrap_content"
             android:text="Accounts:" />
-        <Button
-            android:layout_width="fill_parent"
+        <FrameLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button1"
-            android:layout_gravity="center"
-            android:background="@drawable/cornerbtn"
-            style="@style/Widget.AppCompat.Button.Colored"
-            android:text="Click Here to load Contacts" />
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"
+            android:clickable="true"
+            android:focusable="false"
+            android:longClickable="false" >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button1"
+                android:layout_gravity="left"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:text="Load contacts" />
+
+            <Button
+                android:id="@+id/export"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:enabled="false"
+                android:background="@drawable/cornerbtn"
+                android:text="Export" />
+        </FrameLayout>
+
 
         <TextView
             android:id="@+id/ContactManagerView"
