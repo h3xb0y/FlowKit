@@ -28,10 +28,16 @@
             style="@style/Widget.AppCompat.Button.Colored"
             android:text="Click Here to load Contacts" />
 
-        <ListView
-            android:id="@+id/listView1"
+        <TextView
+            android:id="@+id/ContactManagerView"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:fontFamily="@font/montserrat_extralight"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:textColor="@color/textColor"
+            android:layout_height="wrap_content"
+            android:text="Contacts:" />
+
 
 
     </LinearLayout>
