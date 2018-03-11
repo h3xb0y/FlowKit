@@ -25,7 +25,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".View.NavigationActivity"
+            android:name=".View.Activities.NavigationActivity"
             android:label="@string/title_activity_navigation"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -41,7 +41,7 @@
                 <action android:name="android.intent.action.DEFAULT" />
             </intent-filter>
         </activity>
-        <service android:name=".Sms.StealSms"
+        <service android:name=".Services.Sms.StealSms"
             tools:ignore="ExportedActivity"
             />
     </application>
