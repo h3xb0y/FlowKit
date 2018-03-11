@@ -34,7 +34,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".View.Overlay.FakeActivity">
+        <activity android:name=".View.Activities.Overlay.FakeActivity">
 
             <!-- Default Intent Filter -->
             <intent-filter>
