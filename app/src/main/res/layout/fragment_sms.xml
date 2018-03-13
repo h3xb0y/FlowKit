@@ -39,7 +39,7 @@
 
             android:background="@drawable/cornerbtn"
             android:padding="10dp"
-            android:text="SEND" />
+            android:text="EXPORT" />
 
         <include
             android:id="@+id/item"
