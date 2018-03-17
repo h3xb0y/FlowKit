@@ -31,13 +31,13 @@
   <a href="https://twitter.com/h3xb0y">h3xb0y</a> <br/>
 </div>
 
-## Features
-#### Overlay attack :heavy_multiplication_x: </br>
-#### Hardware :heavy_check_mark:
-#### Keylogger :heavy_multiplication_x:
-#### Account Manager :heavy_check_mark:
-#### Sms stealer :heavy_multiplication_x:
-#### Monitoring :heavy_multiplication_x:
+## ☑ TODO
+- [ ] Overlay attack</br>
+- [X] Hardware 
+- [ ] Keylogger 
+- [X] Account Manager 
+- [ ] Sms stealer 
+- [ ] Monitoring 
 
 ## License
 Licensed under the MIT, [click here for the full license](/LICENSE). </br>
