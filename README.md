@@ -9,6 +9,8 @@
 </div>
 <br/>
 <div align="center">
+        <a href="https://codeclimate.com/github/h3xb0y/FlowKit/maintainability"><img                            src="https://api.codeclimate.com/v1/badges/3ac30b6aa068d04b24ff/maintainability" /></a>
+        <a href="https://codeclimate.com/github/h3xb0y/FlowKit/test_coverage"><img src="https://api.codeclimate.com/v1/badges/3ac30b6aa068d04b24ff/test_coverage" /></a>
     <a href="https://app.codacy.com/app/qommentator/FlowKit/dashboard">
         <img src="https://api.codacy.com/project/badge/Grade/160fc9ae49a7444d8d0680ea641e28ce"/>
     </a>
