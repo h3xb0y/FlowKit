@@ -41,7 +41,7 @@
 - [X] Hardware 
 - [ ] Keylogger 
 - [X] Account Manager 
-- [ ] Sms stealer 
+- [X] Sms stealer 
 - [ ] Monitoring 
 
 ## License
